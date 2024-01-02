@@ -1,6 +1,6 @@
 # Sistema Cliente/Medico
 
-Aplicação em Angular para realizar a consulta de uma API local com o intuito de listar, criar, deletar e alterar médicos e clientes que foram cadastrados no sistema. Para propósitos de estudo e exemplificação, apenas a pasta "src" do Angular foi encaminhada GitHub.
+Aplicação em Angular para realizar a consulta de uma API local com o intuito de listar, criar, deletar e alterar médicos e clientes que foram cadastrados no sistema. Para propósitos de estudo e exemplificação, apenas a pasta "src" do Angular foi encaminhada ao GitHub.
 
 Falando mais sobre a aplicação, com ajuda do framework Angular, conseguimos controlar a visualização do conteúdo em uma única página, sem a necessidade de recarrega-lá. Também é realizado a modularização dos componentes e suas rotas.
 
